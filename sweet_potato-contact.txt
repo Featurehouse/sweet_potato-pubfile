@@ -1,0 +1,49 @@
+Sweet Potato Mod - Contact Us
+
+Email:tedexe_work.top@foxmail.com
+         171078364@qq.com
+--------------------------------------------------------------
+zh_cn:
+
+开发团队
+	Pigeonia Featurehouse
+
+作者
+	Teddy Li (bilibili: teddyxlandlee)
+	Ray MH Chen (bilibili: 一颗水晶Rayawa)
+	Peter Yang (bilibili: 印度大米饭)
+
+贡献者
+	Dennis Lin
+	Garay
+	2333tech
+	squid233
+	因为所以
+	Ironnoob73
+
+支持者
+	immibis
+	Zn_Ar
+
+---------------------------------------------------------------
+en_us:
+
+Author
+	Pigeonia Featurehouse
+
+Contributors
+	Teddy Li
+	Ray MH Chen
+	Peter Yang 
+
+Collaborators
+	Dennis Lin
+	Garay
+	2333tech
+	squid233
+	YWsuoyi
+	Ironnoob73
+
+Supporters
+	immibis
+	Zn_Ar
